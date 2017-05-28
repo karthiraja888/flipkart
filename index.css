@@ -1,0 +1,90 @@
+.header{
+    height: 150px;
+    width: auto;
+    border-color: yellow;
+    background-color: blue;
+    
+}
+.headimg{
+     width: 15%;
+    margin-left: 20px;
+    margin-top: 15px;
+    
+}
+.search{
+    width: 50%;
+    height: 40%;
+    font-family: Roboto, Arial, sans-serif;
+    letter-spacing: 0;
+    border-radius:5px 5px 5px 5px;
+    border-color: white;
+    
+}
+.body{
+    overflow: auto;
+    background-color: azure;
+}
+   
+.searchbtn{
+    background-color: #ffe11b;
+		border: 1px solid #ffe11b;
+		border-radius: 0 2px 2px 0;
+		color: #565656;
+		padding: 10px 0;
+		height: 40px;
+		cursor: pointer;
+		width: 10%;
+}
+#mobile{
+    margin-top: 30px;
+    margin-left: 50px;
+    float: left;
+    height: 500px;
+    width: 300px;
+    
+}
+.xperia{
+    height: 400px;
+    width: auto
+}
+#detaile{
+    width: 400px;
+    height: auto;
+    float: left;
+    
+}
+p{
+   font-size: 30px;
+    
+}
+.buy{
+    color: #fff;
+    background-color: #878787;
+    cursor: not-allowed;
+    background: #fb641b;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .2);
+    border: none;
+    color: #fff;
+    display: inline-block;
+	border-radius: 2px;
+	color: #212121;
+	padding: 10px 20px;
+	font-size: 13px;
+	font-weight: 500;
+	transition: box-shadow 0.2s ease;
+	vertical-align: super;
+	
+	cursor: pointer;
+	outline: none;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .1);
+	border: solid 1px #e0e0e0
+}
+.footer{
+    height: 30px;
+    background-color: lightcyan;
+}
+.page{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
